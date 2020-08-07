@@ -1,0 +1,27 @@
+.users{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 800px;
+}
+.userImg{
+    border-radius: 50%;
+}
+.userFollowButton{
+    width: 95px;
+    height: 30px;
+    font-size: 20px;
+}
+.userLocation{
+    position: absolute;
+    right: 1px;
+    top: 1px;
+}
+.userFullName{
+    position: absolute;
+    left: 110px;
+    top: 1px;
+}
+.selectedPage{
+    font-weight: bold;
+}

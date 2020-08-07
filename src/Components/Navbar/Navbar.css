@@ -1,0 +1,21 @@
+.nav{
+  grid-area: n;
+  background-color: rgb(142, 41, 192);
+  height: 700px;
+  box-shadow: 0px 0px 10px 2px;
+}
+.nav img{
+  height: 40px;
+  width: 40px;
+  margin-right: 30px;
+}
+.nav :hover {
+  background: #0078BF;
+  box-shadow: 0px 0px 4px 2px;
+}
+.nav_a{
+  display: flex;
+  outline: 1px solid #000;
+  color: rgb(153, 145, 145);
+  text-decoration: none;
+}

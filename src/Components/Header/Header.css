@@ -1,0 +1,18 @@
+.Header{
+  display: flex;
+  position: relative;
+    grid-area: h;
+    background-color: rgb(112, 17, 160);
+}
+  
+.Header img{
+    width: 57px;
+    height: 58px;
+}
+.loginBlock{
+    position: absolute;
+    right: 5px;
+}
+.loginBlock a{
+  color: white;
+}

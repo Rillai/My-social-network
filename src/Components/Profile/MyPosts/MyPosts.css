@@ -1,0 +1,16 @@
+.postsblock{
+    padding: 10px;
+}
+.posts{
+    padding: 10px;
+}
+.postsArea{
+    font-size: 20px;
+    resize: none;
+    width: 75%;
+    height: 40px;
+    overflow: auto;
+	outline: none;
+    -moz-appearance: none;
+    border: 1px solid #999;
+}

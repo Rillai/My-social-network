@@ -1,0 +1,30 @@
+.dialogs{
+display: grid;
+grid-template-columns: 2fr 10fr;
+margin-left: 50px;
+margin-top: 20px;
+}
+.dialog_active{
+    color: rgb(169, 184, 184) ;
+}
+.dialog{
+    height: 50px;
+    padding: 4px;
+    border: 1px solid;
+}
+.dialog_ava{
+    border-radius: 50%;
+}
+.dialog a{
+    text-decoration: none;
+}
+.messageArea{
+    font-size: 20px;
+    resize: none;
+    width: 75%;
+    height: 56px;
+    overflow: auto;
+	outline: none;
+    -moz-appearance: none;
+    border: 1px solid #999;
+}
